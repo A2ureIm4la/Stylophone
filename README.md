@@ -1,2 +1,4 @@
 # Stylophone
-A stylus operated, open-source, electronic electrophone.
+A stylus operated, open-source, electrophone.
+
+# Features
